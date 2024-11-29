@@ -1,0 +1,21 @@
+ID: 2000
+Nome: rafar
+Apelido: farafa
+Email: rafa
+Senha: rafa
+Saldo Total: R$530.00
+---------------------------------
+ID: 1000
+Nome: rafa
+Apelido: rafa
+Email: rafa
+Senha: rafar
+Saldo Total: R$100.00
+---------------------------------
+ID: 1001
+Nome: rafae
+Apelido: rafaerawr
+Email: rafafse
+Senha: asfdasfas
+Saldo Total: R$0.00
+---------------------------------
